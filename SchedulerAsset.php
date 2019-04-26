@@ -13,7 +13,7 @@ use yii\web\AssetBundle;
 
 class SchedulerAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/fullcalendar-scheduler/dist';
+    public $sourcePath = 'dependencies/fullcalendar-scheduler';
     
     /**
      * [$js description]
