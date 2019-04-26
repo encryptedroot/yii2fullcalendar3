@@ -23,12 +23,12 @@ Package is although registered at packagist.org - so you can just add one line o
 
 add the following line to your composer.json require section:
 ```json
-  "paciliojoe/yii2fullcalendar":"~1.0",
+  "paciliojoe/yii2fullcalendar3":"~1.0",
 ```
 
 or run:
 ```
-$ php composer.phar require paciliojoe/yii2fullcalendar "~1.0"
+$ php composer.phar require paciliojoe/yii2fullcalendar3 "~1.0"
 ```
 
 And ensure, that you have the following plugin installed global:
