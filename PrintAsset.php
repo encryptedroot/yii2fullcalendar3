@@ -15,7 +15,7 @@ class PrintAsset extends AssetBundle
      * [$sourcePath description]
      * @var string
      */
-    public $sourcePath = 'dependencies/fullcalendar';
+    public $sourcePath = '@vendor/encryptedroot/yii2fullcalendar3/dependencies/fullcalendar';
     
     /**
      * [$css description]
