@@ -16,7 +16,7 @@ class CoreAsset extends AssetBundle
      * [$sourcePath description]
      * @var string
      */
-    public $sourcePath = 'dependencies/fullcalendar';
+    public $sourcePath = '@vendor/encryptedroot/yii2fullcalendar3/dependencies/fullcalendar';
 
     /**
      * the language the calender will be displayed in
