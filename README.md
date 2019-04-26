@@ -23,12 +23,12 @@ Package is although registered at packagist.org - so you can just add one line o
 
 add the following line to your composer.json require section:
 ```json
-  "philippfrenzel/yii2fullcalendar":"*",
+  "paciliojoe/yii2fullcalendar":"~1.0",
 ```
 
 or run:
 ```
-$ php composer.phar require philippfrenzel/yii2fullcalendar "*"
+$ php composer.phar require paciliojoe/yii2fullcalendar "~1.0"
 ```
 
 And ensure, that you have the following plugin installed global:
@@ -37,9 +37,6 @@ And ensure, that you have the following plugin installed global:
 
 Changelog
 ---------
-
-19-01-2017 Updated to include non-standard fields
-29-11-2014 Updated to latest 2.2.3 Version of the library
 
 Usage
 =====
