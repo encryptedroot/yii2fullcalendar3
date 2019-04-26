@@ -2,7 +2,6 @@ yii2fullcalendar
 ================
 JQuery Fullcalendar Yii2 Extension
 JQuery from: http://arshaw.com/fullcalendar/
-Version 2.1.1
 License MIT
 
 JQuery Documentation:
@@ -16,6 +15,10 @@ http://yii2fullcalendar.beeye.org
 [![Build Status](https://travis-ci.org/philippfrenzel/yii2fullcalendar.svg?branch=master)](https://travis-ci.org/philippfrenzel/yii2fullcalendar)
 [![Code Climate](https://codeclimate.com/github/philippfrenzel/yii2fullcalendar.png)](https://codeclimate.com/github/philippfrenzel/yii2fullcalendar)
 [![License](https://poser.pugx.org/philippfrenzel/yii2fullcalendar/license.svg)](https://packagist.org/packages/philippfrenzel/yii2fullcalendar)
+
+All credit goes to Philipp Frenzel who originally put this together.  As versions of FullCalendar have increased, there were dependency issues with older versions.  This repo was a quick and easy way to make sure FullCalendar v3 compatibility can be maintained, by using a packaging all files in one place.  
+
+All code and documentation was originally written here: https://github.com/philippfrenzel/yii2fullcalendar.  Please visit that repo if you are new to FullCalendar so you can get the latest and greatest.
 
 Installation
 ============
