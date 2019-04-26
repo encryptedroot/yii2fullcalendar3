@@ -16,7 +16,7 @@ class CoreAsset extends AssetBundle
      * [$sourcePath description]
      * @var string
      */
-    public $sourcePath = '@bower/fullcalendar/dist';
+    public $sourcePath = 'dependencies/fullcalendar';
 
     /**
      * the language the calender will be displayed in
